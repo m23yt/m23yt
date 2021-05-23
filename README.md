@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's M23 Gaming</h1>
-<h3 align="center">A passionate full stack developer from India. And I'm Gamer</h3>
+<h3 align="center">A passionate full stack developer from India. And I'm a Gamer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkandan1&label=Profile%20views&color=0e75b6&style=flat" alt="mkandan1" /> </p>
 
